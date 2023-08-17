@@ -10,14 +10,13 @@
 }
 
 .innerBox{
-  width: 700px;
+  width: 80%;
   display: flex;
   flex-direction: column;
 }
 
 input{
   height: 50px;
-  /* padding: 10px; */
   width: 100%;
 }
 
